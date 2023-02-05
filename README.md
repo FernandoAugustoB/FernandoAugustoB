@@ -7,11 +7,11 @@ Graduando em Análise e Desenvolvimento de Sistemas e Engenharia de Software.
 <br>
 
 <div align="center">
-  <a href="https://github.com/esteralvess">
+  <a href="https://github.com/FernandoAugustoB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoAugustoB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteralvess&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAugustoB&layout=compact&langs_count=7&theme=dracula"/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=esteralvess&theme=horizon)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=FernandoAugustoB&theme=horizon)](https://git.io/streak-stats)
 </div>
   
 <div style="display: inline_block"><br>
